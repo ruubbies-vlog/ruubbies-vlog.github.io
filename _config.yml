@@ -1,0 +1,49 @@
+title: "Rubbies Vlog"
+email: rubylyn31429@gmail.com
+timezone: UTC
+baseurl: ""
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  Ruby:
+    name: Ruby
+    display_name: Ruby
+    avatar: 'assets/images/ruby.jpg'
+    email: rubylyn31429@gmail.com
+    web: https://www.rubbiesvlog.xyz
+    twitter: 
+    description: "Ruby is the Lifestyle Editor, covering food, entertaining, home decor, crafting, gardening, and holiday."
+   
+
+# Social
+social:
+  instagram: https://www.instagram.com/rubbiesvlog
+  facebook: https://www.facebook.com/rubbiesvlog
+  twitter: https://twitter.com/rubbiesvlog
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
