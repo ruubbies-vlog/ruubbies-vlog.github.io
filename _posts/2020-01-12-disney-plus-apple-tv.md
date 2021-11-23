@@ -3,7 +3,7 @@ layout: post
 title:  "How to watch Disney+ on Apple TV"
 author: Ruby
 categories: [ Apple TV, Disney+ ]
-image: assets/images/DisneyPlus-Originals.pg
+image: assets/images/DisneyPlus-Originals.png
 ---
 Disney+ is an online streaming service that enables customers to watch on-demand movies and TV shows. The streaming service is available to watch on a range of devices, including enabling customers to watch Disney+ on Apple TV. 
 
