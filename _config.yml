@@ -5,7 +5,7 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Ruby
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -39,7 +39,7 @@ social:
   instagram: https://www.instagram.com/rubbiesvlog
   facebook: https://www.facebook.com/rubbiesvlog
   twitter: https://twitter.com/rubbiesvlog
-  
+
 
 # Plugins
 plugins: 
