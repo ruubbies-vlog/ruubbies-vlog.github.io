@@ -3,7 +3,7 @@ layout: post
 title:  "How to watch Disney+ on Apple TV"
 author: Ruby
 categories: [ Apple TV, Disney+ ]
-image: assets/images/DisneyPlus-Originals.png
+image: assets/images/DisneyPlus-Originals.pg
 ---
 Disney+ is an online streaming service that enables customers to watch on-demand movies and TV shows. The streaming service is available to watch on a range of devices, including enabling customers to watch Disney+ on Apple TV. 
 
@@ -19,7 +19,7 @@ Disney+ is one of the more recent entries into the ever-expanding online streami
 
 The service is home to all Disney content and original programming, which includes its classic animated movies and more recent Pixar films. Disney+ is also the place to watch the entire collection of Marvel and _Star Wars_ film franchises.
 
-Disney+ is available for customers to subscribe monthly or annually, which costs $6.99/mo. or $69.99/yr. The service also offers a seven-day free trial, which enables new customers to test Disney+ out and watch its content without paying a cent for a week. For more information about the streaming service, read our [Disney+ review](https://www.soda.com/video/disney-plus-review/).
+Disney+ is available for customers to subscribe monthly or annually, which costs $6.99/mo. or $69.99/yr. The service also offers a seven-day free trial, which enables new customers to test Disney+ out and watch its content without paying a cent for a week. For more information about the streaming service, read our Disney+ review.
 
 Watch Disney+ on these Apple TV models
 --------------------------------------
@@ -39,12 +39,12 @@ Disney+ is available on these Apple TV models:
 *   Apple TV HD (from $149.99)
 *   Apple TV 4K (from $179.99)
 
-For more information on these devices, read our guide to [Apple TV streaming devices](https://www.soda.com/video/apple-tv-streaming-devices-review/).
+For more information on these devices, read our guide to Apple TV streaming devices.
 
 How to subscribe to Disney+
 ---------------------------
 
-*   **Step One:** Visit the [Disney+](https://disneyplus.bn5x.net/e0x9O?subId1=a74cfe19-e63d-430d-9d81-0f46b40ed038&subId2=soda) website. Either select the blue **Sign Up Now** button in the top right corner of the screen or select the **Sign Up Now** button under the monthly subscription option or the **Save On 12 Months** button under the details of the annual subscription.
+*   **Step One:** Visit the Disney+ website. Either select the blue **Sign Up Now** button in the top right corner of the screen or select the **Sign Up Now** button under the monthly subscription option or the **Save On 12 Months** button under the details of the annual subscription.
 *   **Step Two:** Enter an email address into the form that appears and select Agree & Continue. Then create a password on the next stage of the form.
 *   **Step Three:** Choose between monthly ($6.99/mo.) and annual ($69.99/mo.) subscriptions, then enter credit card details or select to pay via PayPal. Select the **Pay & Subscribe** button, and the Disney+ account will be created, and a seven-day free trial will begin.
 
@@ -68,7 +68,7 @@ Yes, Disney+ content can be downloaded on other devices. Disney+ customers who u
 
 ### How many devices in a household can watch Disney+ at one time?
 
-Each Disney+ account is allocated space to register four separate devices. These can be streaming devices, such as an Apple TV, as well as mobile phones and tablets. For more information, visit our [Disney+ device guide](https://www.soda.com/video/disney-plus-devices/).
+Each Disney+ account is allocated space to register four separate devices. These can be streaming devices, such as an Apple TV, as well as mobile phones and tablets.
 
 ### How do I login to Disney+ on my TV?
 
