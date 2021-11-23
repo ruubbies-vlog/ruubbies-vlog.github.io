@@ -3,7 +3,7 @@ layout: post
 title: How to Monetize Your TikTok
 image: assets/images/How-to-make-money-on-TikTok.jpg
 categories:
-  - tikto
+  - tiktok
 author: Ruby
 ---
 One of the newest ways to generate money online is to monetize your TikTok videos. Here are a few choices for you to consider.
