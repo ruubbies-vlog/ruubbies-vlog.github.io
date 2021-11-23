@@ -2,8 +2,10 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/ruby.jpg
 ---
 
-This is my about page
+Hi !
+
+I'm Ruby , An Editor, covering tech, entertaining, how-to, crafting, gardening, and deals.
 
