@@ -1,7 +1,7 @@
 title: "TriviaMazing"
 email: myyogyvd
 timezone: UTC
-baseurl: "https://www.triviamazing.info/"
+baseurl: "https://www.triviamazing.info"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
