@@ -1,7 +1,7 @@
-title: "Rubbies Vlog"
+title: "TriviaMazing"
 email: myyogyvd
 timezone: UTC
-baseurl: "/"
+baseurl: "https://www.triviamazing.info/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
