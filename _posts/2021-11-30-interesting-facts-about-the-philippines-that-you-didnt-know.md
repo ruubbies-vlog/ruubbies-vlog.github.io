@@ -25,7 +25,7 @@ It's also one of the world's rarest and most powerful birds, and killing one com
 
 ### **Jeepneys are still the most popular means of transportation in the Philippines.**
 
-The PhilippiManila,nes is known for its jeepneys. Thousands of excess Jeeps were left behind by American forces after WWII. These were put together by resourceful Filipinos and made into transport vehicles that can hold up to 20 people at a time. They're simple to detect because they're frequently painted in bright colors and have phrases emblazoned on them.
+The Philippines is known for its jeepneys. Thousands of excess Jeeps were left behind by American forces after WWII. These were put together by resourceful Filipinos and made into transport vehicles that can hold up to 20 people at a time. They're simple to detect because they're frequently painted in bright colors and have phrases emblazoned on them.
 
 To relieve traffic congestion in the city, jeepneys are gradually being phased out in favor of more environmentally friendly options. However, there are still lots of them plowing through the streets, so you should be able to catch one.
 
