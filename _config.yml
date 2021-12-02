@@ -1,12 +1,12 @@
-title: "TriviaMazing"
+title: "TriviaMazing - Beset Trivia Website "
 email: myyogyvd
 timezone: UTC
-baseurl: "https://www.triviamazing.info"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Ruby
-paginate: 30
+author: Rubylyn
+paginate: 8
 disqus: 'ruby-6'
 locale: en_us
 lang: en_us

@@ -5,7 +5,6 @@ permalink: "/about/"
 image: assets/images/ruby.jpg
 ---
 
-Hi !
+**Triviamazing** provides trivia entertainment on the web, mobile devices, and at in-person and virtual events.
 
-I'm Ruby , An Editor, covering tech, entertaining, how-to, crafting, gardening, and deals.
-
+We believe in making knowledge fun for everyone. Our purpose is to create mentally stimulating diversions that bring people together.
