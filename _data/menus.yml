@@ -11,9 +11,9 @@ topmenu:
   url: "contact/"
 
   
-- title:  Quote 
-  url: "contact/"
-  class: "ml-2 btn btn-dark text-white px-3"
+# - title:  Quote 
+#   url: "contact/"
+#   class: "ml-2 btn btn-dark text-white px-3"
   # external: true
 
 # Footer Menu
