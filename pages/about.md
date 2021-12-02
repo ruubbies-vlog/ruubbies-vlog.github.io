@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/ruby.jpg
+image: assets/images/logo.png
 ---
 
 **Triviamazing** provides trivia entertainment on the web, mobile devices, and at in-person and virtual events.
