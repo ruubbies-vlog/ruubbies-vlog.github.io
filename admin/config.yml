@@ -19,7 +19,8 @@ collections:
       - { label: "Category", name: "categories", widget: "list" }
       - { label: "Author", name: "author", widget: "string"}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      
+      - { label: 'Featured', name: 'featured', widget: 'select',  options: ["left", "center" }
+      - { label: 'Author', name: 'author', widget: 'select',  options: ["Ruby", "Jeff" }
       
       
       
