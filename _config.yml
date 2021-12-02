@@ -32,7 +32,17 @@ authors:
     web: https://www.rubbiesvlog.xyz
     twitter: 
     description: "Ruby is An Editor, covering tech, entertaining, how-to, crafting, gardening, and deals."
-   
+  
+   Jeff:
+    name: Jeff
+    display_name: Jeff
+    avatar: 'assets/images/jeff.png'
+    email: interenetdailydeals@gmail.com
+    web: https://www.internetdailydeals.com/
+    twitter: https://twitter.com/netdailydeals
+    description: "Ruby is An Editor, covering tech, entertaining, how-to, crafting, gardening, and deals."
+
+
 
 # Social
 social:
