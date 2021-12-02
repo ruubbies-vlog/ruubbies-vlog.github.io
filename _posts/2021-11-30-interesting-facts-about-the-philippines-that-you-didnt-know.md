@@ -4,6 +4,7 @@ title: Interesting Facts About The Philippines That You Didn't Know
 image: /assets/images/interesting-facts-about-the-philippines.jpg
 featured: No
 author: Ruby
+toc: true
 categories:
   - Facts
   - Philippines
