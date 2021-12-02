@@ -51,6 +51,7 @@ social:
 
 
 # Plugins
+url: "https://www.triviamazing.info"
 plugins: 
 - jekyll-paginate
 - jekyll-sitemap
