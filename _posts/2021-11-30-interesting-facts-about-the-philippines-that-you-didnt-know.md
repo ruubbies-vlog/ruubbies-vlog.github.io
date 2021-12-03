@@ -2,7 +2,7 @@
 layout: post
 title: Interesting Facts About The Philippines That You Didn't Know
 image: /assets/images/interesting-facts-about-the-philippines.jpg
-featured: Yes
+featured: No
 author: Ruby
 toc: "true"
 categories:
