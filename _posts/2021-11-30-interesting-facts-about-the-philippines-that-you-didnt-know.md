@@ -9,7 +9,7 @@ categories:
   - Facts
   - Philippines
 ---
-The Philippines is the world's second-largest archipelago, with **7,641 islands**. It is known for its 36,000 kilometers of white sand beaches, but it has much more to offer visitors. The Philippines provides history, culture, environment, and adventure in spades, from its hectic capital Manila to crumbling colonial towns to island hopping and volcanic panoramas. Here are seven amazing facts about the Philippines to offer you a better understanding of this fascinating country.
+The Philippines is the world's second-largest archipelago, with **7,641 islands**. It is known for its 36,000 kilometers of white sand beaches, but it has much more to offer visitors. The Philippines provides history, culture, environment, and adventure in spades, from its hectic capital Manila to crumbling colonial towns to island hopping and volcanic panoramas. Here are amazing facts about the Philippines to offer you a better understanding of this fascinating country.
 
 <br/><br/>
 
