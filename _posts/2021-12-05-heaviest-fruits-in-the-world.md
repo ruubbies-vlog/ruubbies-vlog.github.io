@@ -8,7 +8,7 @@ toc: "true"
 categories:
   - Heaviest Fruits
 ---
-What are the world's heaviest fruits? The top fruits would all be pumpkins if you simply counted them. Instead, we've selected seven distinct fruits and will inform you about the most powerful of each:
+What are the world's heaviest fruits? The top fruits would all be pumpkins if you simply counted them. Instead, we've selected distinct fruits and will test  you about the most heaviest of each:
 
 **<br>**
 
