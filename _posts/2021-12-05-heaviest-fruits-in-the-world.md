@@ -10,9 +10,13 @@ categories:
 ---
 What are the world's heaviest fruits? The top fruits would all be pumpkins if you simply counted them. Instead, we've selected seven distinct fruits and will inform you about the most powerful of each:
 
+**<br>**
+
 **List of the World's Heaviest Fruits**
 
 The following is a list of the world's heaviest fruits.
+
+**<br>**
 
 ### **Watermelon**
 
@@ -24,6 +28,12 @@ Chris Kent (USA) cultivated the world's biggest watermelon in 2013, weighing 350
 
 The seeds are soaked in water for 60 minutes before being planted in potting soil. Seeds are kept indoors in a warm atmosphere for the first few days, and sprouting takes three to four days. Once the seeds have sprouted, they are stored outside.
 
+
+
+**<br>**
+
+
+
 ### **Banana**
 
 ![Heaviest Fruits In The World - Banana](/assets/images/types-of-bananas-in-india-largest-banana-producing-state-in-types-of-indian-bananas.jpg.webp)
@@ -34,7 +44,11 @@ Tecorone SL and Kabana SA of Spain cultivated the largest bunch of bananas in 20
 
 Bananas are high in magnesium, potassium, vitamin C, vitamin B6, fiber, and manganese, among other nutrients. Banana leaves are wrapped around tamales in Mexico and sticky rice in various regions of Asia in numerous countries. Banana peels have also been used as an anti-inflammatory and antibacterial to help wounds heal faster.
 
+**<br><br>**
+
 > **Related: [Interesting Facts About The Philippines That You Didn't Know](https://www.triviamazing.info/interesting-facts-about-the-philippines-that-you-didnt-know/)**
+
+**<br><br>**
 
 ### **Pumpkin**
 
@@ -51,6 +65,8 @@ In addition, it holds the record for being the largest fruit in Belgium.
 
 Pumpkins are almost 90% water and have very little natural sugar. To put it another way, they don't taste like much. The majority of people utilize these heavyweights for things like boats because of this. Watch a man paddling his "boat" in this video.
 
+**<br>**
+
 ### **Lemon**
 
 ![Heaviest Fruits In The World - Lemon](/assets/images/heaviest-lemon.jpg.webp)
@@ -61,15 +77,19 @@ Aharon Shemoel (Israel) cultivated the world's heaviest lemon on his field in 20
 
 Lemon juice is used in a variety of sweets and pastries. Furthermore, the lemon's distinct flavor is employed to enhance a variety of vegetables, seafood, and poultry meals all over the world.
 
+**<br>**
+
 ### **Apple**
 
 ![Heaviest Fruits In The World - Apple](/assets/images/heaviest-apple.jpg.webp)
 
-In 2005, Japan produced the world's biggest apple. The apple was found by Chisato Iwasaki and weighed 4 pounds and 1 ounce. The Hokuto apple is a pink-striped spherical golden fruit. Farmers pick this fruit in the middle of the season, and it is a hybrid of the Mutsu and Fuji kinds.
+In 2005, Japan produced the world's biggest apple. The apple was found by **Chisato Iwasaki** and weighed 4 pounds and 1 ounce. The Hokuto apple is a pink-striped spherical golden fruit. Farmers pick this fruit in the middle of the season, and it is a hybrid of the Mutsu and Fuji kinds.
 
 A bigger apple exists, but it is not edible. It is located in Winchester, Virginia. Outside an antebellum home, a scarlet and massive apple rests. General Phil Sheridan used this home as his headquarters during the Civil War. The headquarters is currently a souvenir shop. If you want to go or are simply curious, go here.
 
 While the exact size of this apple is unknown, it is enormous and well worth a visit if you happen to be in or around Winchester.
+
+**<br>**
 
 ### **Jackfruit**
 
@@ -77,7 +97,9 @@ While the exact size of this apple is unknown, it is enormous and well worth a v
 
 The world's heaviest jackfruit was grown in India. It weighed 94.18 pounds and measured 52 inches in circumference (132.08 centimeters). It was also 22.5 inches (57.15 cm) in length. Surprisingly, the fig and jackfruit trees belong to the same family.
 
-Jackfruit is a popular fruit in the Philippines, Southeast Asia, and India, as well as eastern and central Africa. Furthermore, it is well-known in Brazil and Suriname. The color of the fruit changes from pale green to yellow as it ripens. Iron, calcium, and potassium are abundant in the fruit, which is also resistant to drought, disease, and pests.
+Jackfruit is a popular fruit in the **Philippines**, Southeast Asia, and India, as well as eastern and central Africa. Furthermore, it is well-known in Brazil and Suriname. The color of the fruit changes from pale green to yellow as it ripens. Iron, calcium, and potassium are abundant in the fruit, which is also resistant to drought, disease, and pests.
+
+**<br>**
 
 ### **Strawberry**
 
@@ -91,6 +113,8 @@ In the year 1983, G. In Kent, Anderson raised the world's largest strawberry. Th
 When Mr. Koji Nakao, a Japanese farmer, noticed an abnormally large strawberry during harvest, he contacted Guinness World Records. With a circumference of 9.84 inches, a length of 4.72 inches to 11.81 inches, and a height of 3.15 inches, the fruit weighed 250 g, or little over half a pound.
 
 Surprisingly, the enormous strawberry was a mutation, which can occur for a variety of causes. In this situation, many berries have merged to produce one large strawberry.
+
+**<br><br>**
 
 ### **Last Thoughts**
 
