@@ -32,7 +32,7 @@ Miriam Stevenson (United States, North America) was the first woman to win Miss 
 
 <br/>
 
-![5 Interesting Facts About the Miss Universe Pageant](/assets/images/5-interesting-facts-about-the-miss-universe-pageant.jpg)
+![5 Interesting Facts About the Miss Universe Pageant](/assets/images/5-interesting-facts-about-the-miss-universe-pageant-ms.-russia.jpg)
 
 Miss Russia Oksana Gennadyevna Borodina became the first Miss Universe winner to be dethroned in 2002. She was only allowed to rule for four months before being revoked of her title for "failure to carry out her responsibilities." According to reports, the queen renounced her throne in order to attend law school.
 
