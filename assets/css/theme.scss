@@ -261,7 +261,7 @@ small, .small {
 	overflow:hidden!important;
 }
 span.post-name,span.post-date,span.author-meta {
-	display:inline-block;
+	display:inline-block; font-size: 1.18em; border-bottom: 3px dashed rgb(243, 165, 165);
 }
 
 span.post-read-more a {
