@@ -621,3 +621,23 @@ span.navigation:before {
     color:rgba(255, 0, 0, 0.44);
     
 }
+
+
+.share-page {
+    text-align: center;
+    background: $primary;
+    color: $light;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * $btn-block-spacing-y 0;
+
+    a {
+        font-weight: 700;
+        color: #fff;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed rgb(243, 165, 165);
+        }
+    }
+}
