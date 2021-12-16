@@ -76,11 +76,11 @@
 
     var networks = {
         "facebook" : { className: "feysbuk", url:"https://www.facebook.com/sharer/sharer.php?u={url}&t={title}" },
-        "twitter": { className: "tivitir", url:"https://twitter.com/home?status={url}" },
+        "twitter": { className: "tivitir", url:"https://twitter.com/intent/tweet?text={title}?&url={url}" },
         "google-plus": { className: "gogil", url: "https://plus.google.com/share?url={url}" },
         "linkedin":  { className: "linktin", url: "https://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={description}&source=" },
         "envelope":  { className: "meyil", url: "mailto:asd@asd.com?subject={url}" },
-        "pinterest":  { className: "pinter", url: "https://pinterest.com/pin/create%2Fbutton/?url={url}" },
+        "pinterest":  { className: "pinter", url: "https://www.pinterest.com/pin/create/button/?url={url}" },
         "stumbleupon":  { className: "stambul", url: "https://www.stumbleupon.com/submit?url={url}&title={title}" }
     };
 
