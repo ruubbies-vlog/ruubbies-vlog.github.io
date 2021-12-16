@@ -14,6 +14,7 @@
 <!-- custom CSS - Remove this if you don't use it or choose to customize the stylesheet with sass-->
 <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
 <!-- custom CSS end-->
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     
 {% if jekyll.environment == "production" %}       
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -127,6 +128,25 @@ gtag('config', '{{site.ganalytics}}');
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>   
 <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>   
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
+<script src="{{ site.baseurl }}/assets/js/jquery.floating-share.js"></script>  
+
+<script>
+  $(function(){
+  $("body").floatingShare({
+    place: "top-left", // alternatively top-right
+          counter: true, // set to false to hide counters of pinterest, facebook, twitter and linkedin
+          buttons: ["facebook","twitter","pinterest"], // all of the currently avalaible social buttons
+          title: document.title, // your title, default is current page's title
+          url: "{{ site.url }}{{ page.url }}",  // your url, default is current page's url
+          text: "share with ", // the title of a tags
+          description: $("meta[name='description']").attr("content"), // your description, default is current page's description
+          popup_width: 400, // the sharer popup's width, default is 400px
+          countOffset: 8, // adds an extra height for the share count
+          popup_height: 300 // the sharer popup's width, default is 300px
+  });
+});
+  </script>
+
 <script>
   var chatbox = document.getElementById('fb-customer-chat');
   chatbox.setAttribute("page_id", "107911878395712");
