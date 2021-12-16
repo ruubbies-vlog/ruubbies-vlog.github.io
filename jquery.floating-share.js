@@ -76,7 +76,7 @@
 
     var networks = {
         "facebook" : { className: "feysbuk", url:"https://www.facebook.com/sharer/sharer.php?u={url}&t={title}" },
-        "twitter": { className: "tivitir", url:"https://twitter.com/intent/tweet?={url}" },
+        "twitter": { className: "tivitir", url:"https://twitter.com/home?status={url}" },
         "google-plus": { className: "gogil", url: "https://plus.google.com/share?url={url}" },
         "linkedin":  { className: "linktin", url: "https://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={description}&source=" },
         "envelope":  { className: "meyil", url: "mailto:asd@asd.com?subject={url}" },
