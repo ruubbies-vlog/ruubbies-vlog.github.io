@@ -42,13 +42,10 @@ We're all aware that WhatsApp allows you to delete messages for everyone in a co
 
 When you read a message, you also send the sender a read receipt.  As a result, he or she will be aware that you have received the message. 
 
-If you don't want to send the sender a read receipt (**blue tick**), there are two simple ways you can use to read the message without their knowledge. 
+If you don't want to send the sender a read receipt (**blue tick**), there are twosimple ways you can use to read the message without their knowledge. 
 
-Simply turn off all data networks to the phone if you want to read a message. 
-
-Turn off Wi-Fi and use airplane mode. 
-
-Read your message on WhatsApp. 
+- Simply turn off all data networks to the phone if you want to read a message. 
+- Turn off Wi-Fi and use airplane mode. Read your message on WhatsApp. 
 
 After that, close WhatsApp by killing it from memory as well (if necessary, using an app killer), and then restart your data.
 
