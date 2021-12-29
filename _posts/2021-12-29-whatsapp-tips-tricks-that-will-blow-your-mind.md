@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WhatsApp Tips & Tricks That Will Blow your Mind
+title: WhatsApp Tips & Tricks That Will Blow Your Mind
 image: /assets/images/whatsapp-tips-tricks-that-will-blown-your-mind.jpg
 featured: No
 author: Ruby
