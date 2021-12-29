@@ -19,7 +19,7 @@ We'll go through the following WhatsApp hints and tips in this article:
 
 ### **How to Find Out With Whom You Share The Most Files On WhatsApp**
 
-* Open `WhatsApp `and go to the top right corner of the screen to the `Three-Dots Button`.
+* Open `WhatsApp`and go to the top right corner of the screen to the `Three-Dots Button`.
 * Now, go to '**`Settings`**.'
 * Select `'Storage and Data`' from the drop-down menu.
 * If you go to '`Manage Storage`,' you'll be able to see with whom you've shared the most files on WhatsApp. This can be found in the Chats portion of the screen.
@@ -30,8 +30,8 @@ This area also displays how much storage is used and how much is available on yo
 
 We're all aware that WhatsApp allows you to delete messages for everyone in a conversation thread. The feature, however, is only available until all of the contacts in the chat thread have not seen the message. However, there is a method that allows you to remove older messages that have already been seen by others.
 
-* Open `WhatsApp `and navigate to the chat thread where you sent the message or file you want to delete. Check the date and time it was sent and make a note of it.
-* Now, open the `Settings `app on your phone and update the time and date to the values listed.
+* Open `WhatsApp`and navigate to the chat thread where you sent the message or file you want to delete. Check the date and time it was sent and make a note of it.
+* Now, open the `Settings`app on your phone and update the time and date to the values listed.
 * Open WhatsApp once more and navigate to the message you wish to delete or unsend.
 * Now, hold down the shift key while long-pressing that message or file. The '`Delete`' option (represented by a thrash bin-shaped icon) will now appear on the top bar. Select the '`Delete`' icon.
 * A pop-up menu should now appear. Select '`Delete For Everyone`' from the drop-down menu. And there you have it! For everyone in that chat thread, you've removed that message or file. It is no longer visible to anyone.
@@ -42,12 +42,16 @@ We're all aware that WhatsApp allows you to delete messages for everyone in a co
 
 When you read a message, you also send the sender a read receipt.  As a result, he or she will be aware that you have received the message. 
 
-If you don't want to send the sender a read receipt (**blue tick**), there are twosimple ways you can use to read the message without their knowledge. 
+If you don't want to send the sender a read receipt (**blue tick**), 
 
-- Simply turn off all data networks to the phone if you want to read a message. 
-- Turn off Wi-Fi and use airplane mode. Read your message on WhatsApp. 
+there are two simple ways you can use to read the message without their knowledge. 
 
-After that, close WhatsApp by killing it from memory as well (if necessary, using an app killer), and then restart your data.
+* Simply turn off all data networks to the phone if you want to read a message. 
+* Turn off Wi-Fi and use airplane mode. Read your message on WhatsApp. 
+
+After that, close WhatsApp by killing it from memory as well 
+
+(if necessary, using an app killer), and then restart your data.
 
 ### **Format your text**
 
