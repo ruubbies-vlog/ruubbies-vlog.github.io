@@ -72,14 +72,14 @@ You can now send messages in **bold**, *italics* or ~~strikethrough~~ too. 
 
 Did you know that you can customize your WhatsApp notification tones for individual contacts? For example, you may have one notification tone for friends and another for family members. That's not everything. You may choose the tone for messages and the tone for calls. Follow the steps outlined below to accomplish this
 
-:
+
 
 * Open `WhatsApp`and choose the contact you wish to get a custom notification for.
 * Now, go to their profile and look for an option named '`Custom Notifications`.' Select Custom Notification from the drop-down menu.
 * Now, click the checkbox on the right side of the 'Use Custom Notifications' option to enable it.
 * Next, go to '`Notification Tone`' and select your preferred tone. The call ringtone is the same way. You can select your preferred ringtone from the list by clicking on '`Ringtone`.'
 
-###  
+ 
 
 ![WhatsApp Notifications](https://www.cheapinternetserviceprovider-jna.com/public/images/uploads/WhatsApp%20Notifications_1639066317.jpg)
 
@@ -93,7 +93,7 @@ Are you tired of having to click and hold a status message in order to see it cl
 
 Isn't that quite practical?
 
-###  
+ 
 
 ### **What Is The Best Way To Save Someone's WhatsApp Status Update?**
 
