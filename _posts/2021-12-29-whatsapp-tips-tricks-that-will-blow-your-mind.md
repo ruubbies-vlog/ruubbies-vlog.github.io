@@ -13,8 +13,6 @@ Right now, WhatsApp is by far the most popular instant messaging app on the plan
 
 While you may be familiar with all of WhatsApp's commonly used capabilities, such as sending messages, making or receiving calls, and sharing files, you may not be aware of all of its hidden features. In this article, we've compiled a list of useful WhatsApp tips and techniques to help you utilize the app like an expert.
 
-## **WhatsApp Tips & Tricks**
-
 We'll go through the following WhatsApp hints and tips in this article:
 
 ### **How to Find Out With Whom You Share The Most Files On WhatsApp**
@@ -40,6 +38,7 @@ We're all aware that WhatsApp allows you to delete messages for everyone in a co
 
 ### **Read messages without blue ticks**
 
+
 When you read a message, you also send the sender a read receipt.  As a result, he or she will be aware that you have received the message. 
 
 If you don't want to send the sender a read receipt (**blue tick**), there are two simple ways you can use to read the message without their knowledge. 
@@ -50,6 +49,7 @@ If you don't want to send the sender a read receipt (**blue tick**),
 After that, close WhatsApp by killing it from memory as well 
 
 (if necessary, using an app killer), and then restart your data.
+
 
 ### **Format your text**
 
