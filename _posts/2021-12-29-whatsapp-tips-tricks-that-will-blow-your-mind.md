@@ -30,8 +30,8 @@ This area also displays how much storage is used and how much is available on yo
 
 We're all aware that WhatsApp allows you to delete messages for everyone in a conversation thread. The feature, however, is only available until all of the contacts in the chat thread have not seen the message. However, there is a method that allows you to remove older messages that have already been seen by others.
 
-* Open `WhatsApp`and navigate to the chat thread where you sent the message or file you want to delete. Check the date and time it was sent and make a note of it.
-* Now, open the`Settings`app on your phone and update the time and date to the values listed.
+* Open `WhatsApp `and navigate to the chat thread where you sent the message or file you want to delete. Check the date and time it was sent and make a note of it.
+* Now, open the `Settings `app on your phone and update the time and date to the values listed.
 * Open WhatsApp once more and navigate to the message you wish to delete or unsend.
 * Now, hold down the shift key while long-pressing that message or file. The '`Delete`' option (represented by a thrash bin-shaped icon) will now appear on the top bar. Select the '`Delete`' icon.
 * A pop-up menu should now appear. Select '`Delete For Everyone`' from the drop-down menu. And there you have it! For everyone in that chat thread, you've removed that message or file. It is no longer visible to anyone.
