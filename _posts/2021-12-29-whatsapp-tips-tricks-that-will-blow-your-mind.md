@@ -19,7 +19,7 @@ We'll go through the following WhatsApp hints and tips in this article:
 
 ### **How to Find Out With Whom You Share The Most Files On WhatsApp**
 
-* Open `WhatsApp`and go to the top right corner of the screen to the `Three-Dots Button`.
+* Open `WhatsApp `and go to the top right corner of the screen to the `Three-Dots Button`.
 * Now, go to '**`Settings`**.'
 * Select `'Storage and Data`' from the drop-down menu.
 * If you go to '`Manage Storage`,' you'll be able to see with whom you've shared the most files on WhatsApp. This can be found in the Chats portion of the screen.
@@ -36,11 +36,7 @@ We're all aware that WhatsApp allows you to delete messages for everyone in a co
 * Now, hold down the shift key while long-pressing that message or file. The '`Delete`' option (represented by a thrash bin-shaped icon) will now appear on the top bar. Select the '`Delete`' icon.
 * A pop-up menu should now appear. Select '`Delete For Everyone`' from the drop-down menu. And there you have it! For everyone in that chat thread, you've removed that message or file. It is no longer visible to anyone.
 
-
-
 ![WhatsApp Tips & Tricks](/assets/images/read-messages-without-blue-ticks.jpg)
-
-
 
 ### **Read messages without blue ticks**
 
@@ -56,30 +52,20 @@ Read your message on WhatsApp. 
 
 After that, close WhatsApp by killing it from memory as well (if necessary, using an app killer), and then restart your data.
 
-﻿
-
 ### **Format your text**
 
 You can now send messages in **bold**, *italics* or ~~strikethrough~~ too. Simply use the special characters before and after the words to get the formatting of your choice. For example, use asterisk for bold (\*hello\*), underscore for italics (\_hello\_) and tilde for strikethrough (\~hello\~). 
 
-
-
 ![WhatsApp Tips & Tricks](/assets/images/whatsapp-tips.jfif)
-
-
 
 ###  **How to Change the Sound of WhatsApp Notifications**
 
 Did you know that you can customize your WhatsApp notification tones for individual contacts? For example, you may have one notification tone for friends and another for family members. That's not everything. You may choose the tone for messages and the tone for calls. Follow the steps outlined below to accomplish this
 
-
-
 * Open `WhatsApp`and choose the contact you wish to get a custom notification for.
 * Now, go to their profile and look for an option named '`Custom Notifications`.' Select Custom Notification from the drop-down menu.
 * Now, click the checkbox on the right side of the 'Use Custom Notifications' option to enable it.
 * Next, go to '`Notification Tone`' and select your preferred tone. The call ringtone is the same way. You can select your preferred ringtone from the list by clicking on '`Ringtone`.'
-
- 
 
 ![WhatsApp Notifications](https://www.cheapinternetserviceprovider-jna.com/public/images/uploads/WhatsApp%20Notifications_1639066317.jpg)
 
@@ -92,8 +78,6 @@ Are you tired of having to click and hold a status message in order to see it cl
 * When their Status begins to play, touch the phone's screen with three fingers at the same time. This will pause the playback of the Status update, and you can remove your fingers from the screen at any time to continue seeing the Status update.
 
 Isn't that quite practical?
-
- 
 
 ### **What Is The Best Way To Save Someone's WhatsApp Status Update?**
 
