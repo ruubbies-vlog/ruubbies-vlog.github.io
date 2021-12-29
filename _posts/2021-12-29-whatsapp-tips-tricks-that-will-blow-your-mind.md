@@ -34,7 +34,6 @@ We're all aware that WhatsApp allows you to delete messages for everyone in a co
 * Now, hold down the shift key while long-pressing that message or file. The '`Delete`' option (represented by a thrash bin-shaped icon) will now appear on the top bar. Select the '`Delete`' icon.
 * A pop-up menu should now appear. Select '`Delete For Everyone`' from the drop-down menu. And there you have it! For everyone in that chat thread, you've removed that message or file. It is no longer visible to anyone.
 
-![WhatsApp Tips & Tricks](/assets/images/read-messages-without-blue-ticks.jpg)
  
 
 ### **Format your text**
