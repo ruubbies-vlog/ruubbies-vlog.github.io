@@ -2,7 +2,7 @@
 layout: post
 title: Songs You Didn’t Know Ed Sheeran Wrote
 image: /assets/images/songs-you-didn-t-know-ed-sheeran-wrote.jpg
-featured: Yes
+featured: No
 author: Ruby
 toc: "true"
 categories:
